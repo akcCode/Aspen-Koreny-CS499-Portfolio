@@ -1,5 +1,11 @@
-# Aspen Koreny — CS 499 ePortfolio
+# Aspen Koreny – CS 499 ePortfolio
 
-This site hosts my Computer Science capstone ePortfolio for CS 499 at Southern New Hampshire University.
+Welcome to my Computer Science Capstone ePortfolio.
 
-More content coming soon.
+This site will showcase enhanced artifacts in:
+- Software Design and Engineering
+- Algorithms and Data Structures
+- Databases
+
+Each artifact will be accompanied by a narrative explaining design decisions,
+enhancements, and alignment with course outcomes.
