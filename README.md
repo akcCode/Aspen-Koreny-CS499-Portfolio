@@ -1,11 +1,10 @@
-# Aspen Koreny – CS 499 ePortfolio
+# Aspen-Koreny-CS499-Portfolio
 
-Welcome to my Computer Science Capstone ePortfolio.
+This repository contains my CS 499 Computer Science Capstone ePortfolio.
 
-This site will showcase enhanced artifacts in:
-- Software Design and Engineering
-- Algorithms and Data Structures
-- Databases
+The portfolio is hosted using GitHub Pages and includes enhanced artifacts
+demonstrating skills in software engineering, algorithms and data structures,
+and databases.
 
-Each artifact will be accompanied by a narrative explaining design decisions,
-enhancements, and alignment with course outcomes.
+Live site:
+https://ackcode.github.io/Aspen-Koreny-CS499-Portfolio/
