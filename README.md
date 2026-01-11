@@ -7,4 +7,4 @@ demonstrating skills in software engineering, algorithms and data structures,
 and databases.
 
 Live site:
-https://ackcode.github.io/Aspen-Koreny-CS499-Portfolio/
+https://akccode.github.io/Aspen-Koreny-CS499-Portfolio/
