@@ -1,4 +1,13 @@
+# Grazioso Salvare Dashboard Artifact
 
-# Artifact
+This folder contains:
 
-This folder contains the original and enhanced versions of my CS 340 Project Two dashboard artifact, along with enhancement narratives for CS 499.
+- original/ → The unmodified CS 340 submission
+- enhanced/ → Enhanced versions demonstrating CS 499 improvements
+- narratives/ → Enhancement reflection documents
+
+Enhancements include:
+- Aggregation moved to MongoDB
+- Separation of admin workflows
+- Environment-based configuration
+- Least privilege database access
