@@ -24,15 +24,13 @@ As the foundation for this capstone, I conducted a structured peer-style code re
 
 ---
 
-# Professional Self-Assessment
+## Professional Self-Assessment
 
-_Part of my CS 499 Computer Science Capstone ePortfolio._
+<details>
+  <summary><strong>Click to read my full self-assessment</strong></summary>
 
-[Back to Home](index.md)
+<br>
 
----
-
-Professional Self-Assessment
 Completing the Computer Science program and developing my professional ePortfolio has allowed me to clearly define my technical interests, identity, and professional direction. Through structured coursework and applied projects, I have developed into a backend-focused developer with a strong foundation in database architecture, algorithm optimization, and secure system design. What began as broad curiosity about technology evolved into a focused interest in scalable data systems and the architectural decisions that support long-term maintainability and security.
 
 Throughout the program, I have learned that strong software development is not only about writing code but about building systems that serve real organizational needs. My selected artifact for the SNHU CS capstone ePortfolio, the Grazioso Salvare Animal Rescue Dashboard, represents that thinking. Initially created during my time in CS 340 Client/Server Development, it began as a functional database-driven dashboard. Through the capstone process, I enhanced this artifact across software design, algorithms and data structures, and database architecture. Each enhancement was deliberate and iterative, reflecting the same mindset I apply in my current professional roles as a recruiter working with HR systems and reporting tools, and future opportunities.
@@ -51,5 +49,6 @@ Together, these enhancements in software engineering, algorithms, data structure
 With my experience using HR systems as a user and collaborating with our systems administrators, I am particularly interested in backend development and data systems roles that involve database architecture, analytics platforms, or system optimization. I aim to continue strengthening my understanding of distributed systems and scalable architecture while maintaining a security-conscious perspective. The capstone process has reinforced that my strengths lie in analyzing systems holistically, improving performance thoughtfully, and designing solutions that balance usability with structural integrity.
 
 Ultimately, this portfolio highlights more than just an individual artifact; it integrates my technical skills, professional experience, and intentional growth. It demonstrates my ability to communicate clearly, design efficient solutions, apply industry-standard practices, and develop systems with a security mindset. I am wrapping up this program not only with a degree but also with a clearer professional direction and a portfolio that demonstrates my readiness to contribute to the field of computer science.
+</details>
 
 ---
