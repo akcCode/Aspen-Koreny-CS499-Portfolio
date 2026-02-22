@@ -25,6 +25,8 @@ As the foundation for this capstone, I conducted a structured peer-style code re
 ---
 
 ## Professional Self-Assessment
+This self-assessment reflects on my growth throughout the Computer Science program and how I am positioning myself professionally.
+
 
 <details>
   <summary><strong>Click to read my full self-assessment</strong></summary>
