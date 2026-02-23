@@ -64,6 +64,8 @@ Ultimately, this portfolio highlights more than just an individual artifact; it 
 <br>
 
 </details>
+
+
 ---
 
 ## Informal Code Review
