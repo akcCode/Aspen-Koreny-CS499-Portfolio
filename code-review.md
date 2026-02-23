@@ -1,5 +1,5 @@
 
-## Code Review – CS 499 Milestone One
+## Code Review – CS-499 Milestone One
 
 For CS 499, I conducted a peer-style code review of my **Grazioso Salvare Animal Rescue Dashboard**, originally developed in CS 340 Client/Server Development. This artifact is a Python-based Dash application connected to a MongoDB database containing animal shelter data from the Austin, Texas area.
 
