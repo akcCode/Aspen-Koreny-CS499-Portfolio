@@ -1,4 +1,5 @@
 # Aspen Koreny – CS 499 ePortfolio
+Backend-focused developer specializing in scalable data systems, secure architecture, and performance-driven design.
 
 Welcome to my Computer Science Capstone ePortfolio.
 
@@ -22,6 +23,11 @@ As the foundation for this capstone, I conducted a structured peer-style code re
 📄 **Read the Code Review Summary:**  
 [Code Review Documentation](code-review.md)
 
+## Artifact Enhancements
+
+- [Software Design & Engineering Enhancement](software-design-enhancement.md)  
+- [Algorithms & Data Structures Enhancement](algorithms-enhancement.md)  
+- [Database & Security Enhancement](database-enhancement.md)
 ---
 
 ## Professional Self-Assessment
