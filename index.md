@@ -29,7 +29,9 @@ As the foundation for this capstone, I conducted a structured peer-style code re
 -  [Algorithms & Data Structures Enhancement](artifact/enhancement-algorithms-narrative.md)  
 -  [Database & Security Enhancement](artifact/enhancement-databases-narrative.md)
 
+## Grazioso Salvare Dashboard Preview
 
+![Grazioso Salvare Dashboard](assets/dashboard-preview.png)
 ---
 
 ## Professional Self-Assessment
