@@ -69,7 +69,22 @@ As the foundation for this capstone, I conducted a structured peer-style code re
 [Code Review Documentation](code-review.md)
 
 ---
-## Artifact Enhancements
+---
+
+## Artifact Source Files
+
+### Original Artifact (CS 340 Version)
+
+- [Original CRUD Module](src/original/crud_module.py)
+- [Original Dashboard Notebook](src/original/ProjectTwoDashboard.ipynb)
+
+### Enhanced Artifact (CS 499 Capstone Version)
+
+- [Enhanced CRUD Module](src/enhanced/crud_module_enhanced.py)
+- [Enhanced Admin Tools](src/enhanced/admin_tools.py)
+- [Enhanced Dashboard Notebook](src/enhanced/ProjectTwoDashboard_enhanced.ipynb)
+
+## Artifact Enhancement Narratives
 
 -  [Software Design & Engineering Enhancement](artifact/enhancement-software-design-narrative.md)  
 -  [Algorithms & Data Structures Enhancement](artifact/enhancement-algorithms-narrative.md)  
