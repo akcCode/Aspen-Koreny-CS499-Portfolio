@@ -5,11 +5,12 @@ For CS 499, I conducted a peer-style code review of my **Grazioso Salvare Animal
 
 The purpose of the review was to analyze the existing code, identify limitations, and outline planned enhancements across three areas: software design and engineering, algorithms and data structures, and databases. The review follows professional code review practices and uses the CS 499 code review checklist as guidance.
 
-###  Code Review Video
+### Code Review Video
 **Watch the Code Review Video:**
 
 <p align="center">
-<img src="/assets/code-review-thumbnail.png" width="700" alt="Code Review Video Thumbnail">
+  <a href="https://youtu.be/veKNYrXu9U0" target="_blank" rel="noopener">
+    <img src="assets/code-review-thumbnail.png" width="700" alt="Code Review Video Thumbnail">
   </a>
 </p>
 
