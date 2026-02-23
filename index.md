@@ -21,8 +21,6 @@ This portfolio demonstrates growth across:
 - Algorithms and Data Structures  
 - Databases  
 
-Each artifact includes a technical narrative describing the architectural refinements, algorithmic improvements, and database enhancements implemented during the capstone process.
-
 ---
 
 ## Professional Self-Assessment
