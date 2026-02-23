@@ -1,23 +1,34 @@
 # Aspen Koreny – CS 499 ePortfolio
+
 Backend-focused developer building scalable data systems, secure database architectures, and performance-driven applications.
-### Technical Focus
+
+---
+
+## Technical Focus
 
 - Database Architecture (MongoDB)
 - Secure Data Access Layers
 - Aggregation & Data Processing
 - API-Driven Design
 
-  
+---
+
 Welcome to my Computer Science Capstone ePortfolio.
 
-This portfolio highlights enhanced work demonstrating growth in:
+This portfolio demonstrates growth across:
 
 - Software Design and Engineering  
 - Algorithms and Data Structures  
 - Databases  
 
-Each artifact includes a reflection narrative outlining the enhancement process, technical decisions, and alignment with program outcomes.
+Each artifact includes a technical narrative describing the architectural refinements, algorithmic improvements, and database enhancements implemented during the capstone process.
+
 ---
+
+## Professional Self-Assessment
+
+This self-assessment reflects on my growth throughout the Computer Science program and how I am positioning myself professionally.
+
 <details>
 <summary><strong>Click to read my full self-assessment</strong></summary>
 
@@ -39,32 +50,31 @@ From an algorithmic perspective, I strengthened my ability to design and evaluat
 
 <br>
 
-The software design enhancement made focus on modularization, separation of concerns, and structural clarity. Refactoring the codebase improved readability and maintainability while better aligning with software engineering best practices. I approached these modifications using an iterative development mindset similar to the software development lifecycle discussed throughout the program. Each enhancement was planned, implemented, tested, and refined. This process reflects my ability to use well-founded tools and techniques to deliver practical improvements rather than surface-level changes. The result is a cleaner, more professional codebase that reflects production-minded thinking.
+The software design enhancement focused on modularization, separation of concerns, and structural clarity. Refactoring the codebase improved readability and maintainability while better aligning with software engineering best practices. I approached these modifications using an iterative development mindset similar to the software development lifecycle discussed throughout the program. Each enhancement was planned, implemented, tested, and refined. This process reflects my ability to use well-founded tools and techniques to deliver practical improvements rather than surface-level changes. The result is a cleaner, more professional codebase that reflects production-minded thinking.
 
 <br>
 
-Enhancing the database has significantly improved my security awareness and my ability to make architectural decisions. Instead of exposing the full Create, Read, Update, and Delete (CRUD) functionality through the user-facing dashboard, I have separated administrative database operations into a distinct command-line tool. This design adheres to the principle of least privilege, which is a core security strategy emphasized throughout this computer science program. By doing so, I ensure that write operations are restricted to controlled workflows. Additionally, I have externalized the database configuration by using environment variables, rather than hardcoding credentials. These changes reflect a developing security mindset that anticipates misuse, reduces the attack surface, and prioritizes long-term maintainability. Cultivating this mindset has been one of the most valuable outcomes of the program, as security should be an integral part of system design rather than an afterthought.
+Enhancing the database has significantly improved my security awareness and my ability to make architectural decisions. Instead of exposing the full Create, Read, Update, and Delete (CRUD) functionality through the user-facing dashboard, I have separated administrative database operations into a distinct command-line tool. This design adheres to the principle of least privilege. Additionally, I have externalized the database configuration by using environment variables, rather than hardcoding credentials. These changes reflect a developing security mindset that anticipates misuse, reduces the attack surface, and prioritizes long-term maintainability.
 
 <br>
 
-Beyond the artifact itself, the entire program experience has helped me think critically about backend systems and data-driven decision-making, with everything I encounter. My work as a recruiter involves analyzing hiring data, which involves improving reporting processes, streamlining processes with our hiring teams, and collaborating with HR systems administrators on these initiatives. The technical skills developed in this program, database querying, algorithm optimization, modular system design, and secure configuration, directly support those responsibilities and expand my ability to contribute in more technical capacities. I now approach data systems not only as a user but as a builder who understands the infrastructure behind them.
+Beyond the artifact itself, the entire program experience has helped me think critically about backend systems and data-driven decision-making. My work as a recruiter involves analyzing hiring data, improving reporting processes, and collaborating with HR systems administrators on workflow initiatives. The technical skills developed in this program — database querying, algorithm optimization, modular system design, and secure configuration — directly support those responsibilities and expand my ability to contribute in more technical capacities. I now approach data systems not only as a user but as a builder who understands the infrastructure behind them.
 
 <br>
 
-Together, these enhancements in software engineering, algorithms, data structures, and databases demonstrate a cohesive growth of my technical capabilities. Rather than selecting unrelated projects, I chose to deepen and expand a singular artifact from my past courses to apply across multiple dimensions. This approach allowed me to demonstrate layered improvement throughout this capstone, including structural refinement, performance optimization, and security hardening. Each enhancement builds on the last, illustrating how backend systems evolve through intentional design decisions.
+Together, these enhancements demonstrate cohesive technical growth. Rather than selecting unrelated projects, I chose to deepen and expand a singular artifact across multiple dimensions. This approach allowed me to demonstrate layered improvement throughout this capstone, including structural refinement, performance optimization, and security hardening.
 
 <br>
 
-With my experience using HR systems as a user and collaborating with our systems administrators, I am particularly interested in backend development and data systems roles that involve database architecture, analytics platforms, or system optimization. I aim to continue strengthening my understanding of distributed systems and scalable architecture while maintaining a security-conscious perspective. The capstone process has reinforced that my strengths lie in analyzing systems holistically, improving performance thoughtfully, and designing solutions that balance usability with structural integrity.
+With my experience using HR systems and collaborating with administrators, I am particularly interested in backend development and data systems roles involving database architecture, analytics platforms, or system optimization. I aim to continue strengthening my understanding of distributed systems and scalable architecture while maintaining a security-conscious perspective.
 
 <br>
 
-Ultimately, this portfolio highlights more than just an individual artifact; it integrates my technical skills, professional experience, and intentional growth. It demonstrates my ability to communicate clearly, design efficient solutions, apply industry-standard practices, and develop systems with a security mindset. I am wrapping up this program not only with a degree but also with a clearer professional direction and a portfolio that demonstrates my readiness to contribute to the field of computer science.
+Ultimately, this portfolio integrates my technical skills, professional experience, and intentional growth. It demonstrates my ability to communicate clearly, design efficient solutions, apply industry-standard practices, and develop systems with a security mindset.
 
 <br>
 
 </details>
-
 
 ---
 
@@ -72,44 +82,47 @@ Ultimately, this portfolio highlights more than just an individual artifact; it 
 
 As the foundation for this capstone, I conducted a structured peer-style code review of my original *Grazioso Salvare Animal Rescue Dashboard* to identify architectural improvements across software design, algorithm efficiency, and database security.
 
- **Watch the Code Review Video:**  
+**Watch the Code Review Video:**  
 [View Code Review on YouTube](https://youtu.be/veKNYrXu9U0)
 
- **Read the Code Review Summary:**  
+**Read the Code Review Summary:**  
 [Code Review Documentation](code-review.md)
 
 ---
 
 ## Artifact Source Files
-The original CS 340 implementation and the enhanced CS 499 version are both preserved below to demonstrate architectural refactoring, algorithmic improvements, and database security enhancements.
 
-### Original Artifact (CS 340 Client/Server Development Version)
+The original CS 340 implementation and the enhanced CS 499 version are preserved below to demonstrate architectural refactoring, algorithmic improvements, and database security enhancements.
+
+### Original Artifact (CS 340 Version)
 
 - [Original CRUD Module](artifact/original/crud_module.py)
 - [Original Dashboard Notebook](artifact/original/ProjectTwoDashboard.ipynb)
 
-### Enhanced Artifact (CS 499 CS Capstone Version)
+### Enhanced Artifact (CS 499 Capstone Version)
 
 - [Enhanced CRUD Module](artifact/enhanced/crud_module_enhanced.py)
 - [Enhanced Admin Tools](artifact/enhanced/admin_tools.py)
 - [Enhanced Dashboard Notebook](artifact/enhanced/ProjectTwoDashboard_enhanced.ipynb)
 
+---
+
 ## Artifact Enhancement Narratives
 
--  [Software Design & Engineering Enhancement](artifact/enhancement-software-design-narrative.md)  
--  [Algorithms & Data Structures Enhancement](artifact/enhancement-algorithms-narrative.md)  
--  [Database & Security Enhancement](artifact/enhancement-databases-narrative.md)
+- [Software Design & Engineering Enhancement](artifact/enhancement-software-design-narrative.md)  
+- [Algorithms & Data Structures Enhancement](artifact/enhancement-algorithms-narrative.md)  
+- [Database & Security Enhancement](artifact/enhancement-databases-narrative.md)
 
 ---
-### Interactive MongoDB + Dash Data Visualization Dashboard
+
+## Interactive MongoDB + Dash Data Visualization Dashboard
 
 The enhanced Grazioso Salvare dashboard integrates MongoDB data retrieval, aggregation pipelines, and Plotly visualizations into an interactive analytics interface.
 
 ![Grazioso Salvare Dashboard](assets/dashboard-preview.png)
+
 **Tech Stack:** Python · MongoDB · Dash · Plotly · Aggregation Pipelines
 
 ---
 
-
 This portfolio represents the integration of structured computer science education, applied backend development, and intentional professional growth.
----
