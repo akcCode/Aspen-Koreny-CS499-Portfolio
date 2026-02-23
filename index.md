@@ -25,9 +25,9 @@ As the foundation for this capstone, I conducted a structured peer-style code re
 
 ## Artifact Enhancements
 
-- [Software Design & Engineering Enhancement](enhanced-software-design-narrative.md)  
-- [Algorithms & Data Structures Enhancement](enhancement-algorithms-narrative.md)  
-- [Database & Security Enhancement](enhancement-databases-narrative.md)
+- 🔧 [Software Design & Engineering Enhancement](artifact/enhancement-software-design-narrative.md)  
+- ⚙️ [Algorithms & Data Structures Enhancement](artifact/enhancement-algorithms-narrative.md)  
+- 🔐 [Database & Security Enhancement](artifact/enhancement-databases-narrative.md)
 ---
 
 ## Professional Self-Assessment
