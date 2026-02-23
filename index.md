@@ -19,39 +19,69 @@ This portfolio highlights enhanced work demonstrating growth in:
 Each artifact includes a reflection narrative outlining the enhancement process, technical decisions, and alignment with program outcomes.
 ---
 ## Professional Self-Assessment
+
 This self-assessment reflects on my growth throughout the Computer Science program and how I am positioning myself professionally.
 
-
 <details>
-  <summary><strong>Click to read my full self-assessment</strong></summary>
+<summary><strong>Click to read my full self-assessment</strong></summary>
 
-<br>
+---
 
-Completing the Computer Science program and developing my professional ePortfolio has allowed me to clearly define my technical interests, identity, and professional direction. Through structured coursework and applied projects, I have developed into a backend-focused developer with a strong foundation in database architecture, algorithm optimization, and secure system design. What began as broad curiosity about technology evolved into a focused interest in scalable data systems and the architectural decisions that support long-term maintainability and security.
+### Professional Identity & Direction
 
+Completing the Computer Science program and developing my ePortfolio has allowed me to clearly define my technical interests and professional direction. Through structured coursework and applied projects, I have developed into a backend-focused developer with a strong foundation in database architecture, algorithm optimization, and secure system design. What began as broad curiosity about technology evolved into a focused interest in scalable data systems and architectural decisions that support long-term maintainability and security.
 
-Throughout the program, I have learned that strong software development is not only about writing code but about building systems that serve real organizational needs. My selected artifact for the SNHU CS capstone ePortfolio, the Grazioso Salvare Animal Rescue Dashboard, represents that thinking. Initially created during my time in CS 340 Client/Server Development, it began as a functional database-driven dashboard. Through the capstone process, I enhanced this artifact across software design, algorithms and data structures, and database architecture. Each enhancement was deliberate and iterative, reflecting the same mindset I apply in my current professional roles as a recruiter working with HR systems and reporting tools, and future opportunities.
+---
 
+### System Design & Iterative Improvement
 
-Being able to articulate my thoughts and steps of processes well has been a central theme in my academic and professional growth, as collaboration and communication are key in the professional world. In my current career as a talent acquisition specialist, I work closely with systems administrators and stakeholders to improve reporting workflows and data processes. Translating technical details into accessible explanations for non-technical users has become one of my strengths. This capability is reflected in my structured code review and written narratives, where I explain not only what changes were implemented but why they were necessary. Conducting a structured code review reinforced the importance of clarity, documentation, and constructive evaluation within collaborative environments. These practices support informed decision-making for stakeholders and align with industry expectations for peer review and professional communication.
-From an algorithmic perspective, I strengthened my ability to design and evaluate computing solutions, using appropriate data structures and performance trade-offs. In my second enhancement, I moved aggregation logic from the application layer to MongoDB using an aggregation pipeline. This change reduced redundant computations, improving scalability. More importantly, it demonstrated my understanding of algorithm placement and performance implications. Designing solutions requires evaluating trade-offs among simplicity, efficiency, and maintainability. By relocating data grouping and counting operations to the database layer, I improved system efficiency while simplifying the application logic. This experience reinforced my confidence in analyzing performance bottlenecks and selecting implementation strategies grounded in computer science principles.
+Throughout the program, I learned that strong software development is not just about writing code, but about building systems that serve real organizational needs. My selected artifact, the *Grazioso Salvare Animal Rescue Dashboard*, reflects that mindset. Originally created in CS 340 (Client/Server Development), it began as a functional database-driven dashboard. Through the capstone process, I enhanced it across software design, algorithms and data structures, and database architecture.
 
+Each enhancement was deliberate and iterative, reinforcing structured problem-solving and production-minded thinking.
 
-The software design enhancement made focus on modularization, separation of concerns, and structural clarity. Refactoring the codebase improved readability and maintainability while better aligning with software engineering best practices. I approached these modifications using an iterative development mindset similar to the software development lifecycle discussed throughout the program. Each enhancement was planned, implemented, tested, and refined. This process reflects my ability to use well-founded tools and techniques to deliver practical improvements rather than surface-level changes. The result is a cleaner, more professional codebase that reflects production-minded thinking.
+---
 
+### Communication & Professional Strength
 
-Enhancing the database has significantly improved my security awareness and my ability to make architectural decisions. Instead of exposing the full Create, Read, Update, and Delete (CRUD) functionality through the user-facing dashboard, I have separated administrative database operations into a distinct command-line tool. This design adheres to the principle of least privilege, which is a core security strategy emphasized throughout this computer science program. By doing so, I ensure that write operations are restricted to controlled workflows. Additionally, I have externalized the database configuration by using environment variables, rather than hardcoding credentials. These changes reflect a developing security mindset that anticipates misuse, reduces the attack surface, and prioritizes long-term maintainability. Cultivating this mindset has been one of the most valuable outcomes of the program, as security should be an integral part of system design rather than an afterthought.
+Clearly articulating technical decisions has been central to my academic and professional growth. In my current role as a talent acquisition specialist, I collaborate with systems administrators and stakeholders to improve reporting workflows and data processes. Translating technical details into accessible explanations for non-technical users has become one of my strengths.
 
+This capability is reflected in my structured code review and written narratives, where I explain not only what changes were implemented, but why they were necessary. Conducting a formal code review reinforced the importance of clarity, documentation, and constructive evaluation within collaborative engineering environments.
 
-Beyond the artifact itself, the entire program experience has helped me think critically about backend systems and data-driven decision-making, with everything I encounter. My work as a recruiter involves analyzing hiring data, which involves improving reporting processes, streamlining processes with our hiring teams, and collaborating with HR systems administrators on these initiatives. The technical skills developed in this program, database querying, algorithm optimization, modular system design, and secure configuration, directly support those responsibilities and expand my ability to contribute in more technical capacities. I now approach data systems not only as a user but as a builder who understands the infrastructure behind them.
+---
 
+### Algorithms & Performance Optimization
 
-Together, these enhancements in software engineering, algorithms, data structures, and databases demonstrate a cohesive growth of my technical capabilities. Rather than selecting unrelated projects, I chose to deepen and expand a singular artifact from my past courses to apply across multiple dimensions. This approach allowed me to demonstrate layered improvement throughout this capstone, including structural refinement, performance optimization, and security hardening. Each enhancement builds on the last, illustrating how backend systems evolve through intentional design decisions.
+From an algorithmic perspective, I strengthened my ability to design and evaluate computing solutions using appropriate data structures and performance trade-offs. In my enhancement work, I relocated aggregation logic from the application layer to MongoDB using an aggregation pipeline. This reduced redundant computation and improved scalability while simplifying application logic.
 
-With my experience using HR systems as a user and collaborating with our systems administrators, I am particularly interested in backend development and data systems roles that involve database architecture, analytics platforms, or system optimization. I aim to continue strengthening my understanding of distributed systems and scalable architecture while maintaining a security-conscious perspective. The capstone process has reinforced that my strengths lie in analyzing systems holistically, improving performance thoughtfully, and designing solutions that balance usability with structural integrity.
+This experience reinforced my understanding of algorithm placement and system-level performance implications.
 
-Ultimately, this portfolio highlights more than just an individual artifact; it integrates my technical skills, professional experience, and intentional growth. It demonstrates my ability to communicate clearly, design efficient solutions, apply industry-standard practices, and develop systems with a security mindset. I am wrapping up this program not only with a degree but also with a clearer professional direction and a portfolio that demonstrates my readiness to contribute to the field of computer science.
+---
 
+### Security & Database Architecture
+
+Enhancing the database significantly improved my security awareness and architectural decision-making. Rather than exposing full CRUD functionality through the user-facing dashboard, I separated administrative operations into a controlled command-line workflow. This adheres to the principle of least privilege.
+
+Additionally, I externalized database configuration using environment variables instead of hardcoding credentials. These changes reflect a developing security mindset that anticipates misuse, reduces attack surface, and prioritizes maintainability.
+
+---
+
+### Integration of Technical & Professional Experience
+
+Beyond the artifact itself, the program has reshaped how I approach backend systems and data-driven decision-making. In my professional work, I analyze hiring data, improve reporting workflows, and collaborate with HR systems administrators. The technical skills developed in this program — database querying, algorithm optimization, modular design, and secure configuration — directly support and expand those responsibilities.
+
+I now approach systems not only as a user, but as a builder who understands the infrastructure behind them.
+
+---
+
+### Future Direction
+
+Rather than presenting unrelated projects, I chose to deepen and expand a single artifact across multiple dimensions. This allowed me to demonstrate layered improvement in structural refinement, performance optimization, and security hardening.
+
+I am particularly interested in backend development and data systems roles involving database architecture, analytics platforms, or system optimization. I plan to continue strengthening my understanding of distributed systems and scalable architecture while maintaining a security-conscious perspective.
+
+---
+
+Ultimately, this portfolio represents more than a completed assignment — it reflects structured growth, applied backend engineering principles, and intentional professional direction.
 
 </details>
 
@@ -71,6 +101,7 @@ As the foundation for this capstone, I conducted a structured peer-style code re
 ---
 
 ## Artifact Source Files
+The original CS 340 implementation and the enhanced CS 499 version are both preserved below to demonstrate architectural refactoring, algorithmic improvements, and database security enhancements.
 
 ### Original Artifact (CS 340 Client/Server Development Version)
 
