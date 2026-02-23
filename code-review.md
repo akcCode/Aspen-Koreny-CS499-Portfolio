@@ -9,8 +9,7 @@ The purpose of the review was to analyze the existing code, identify limitations
 **Watch the Code Review Video:**
 
 <p align="center">
-  <a href="https://youtu.be/veKNYrXu9U0" target="_blank" rel="noopener">
-    <img src="./assets/code-review-thumbnail.png" width="700" alt="Code Review Video Thumbnail">
+<img src="/assets/code-review-thumbnail.png" width="700" alt="Code Review Video Thumbnail">
   </a>
 </p>
 
