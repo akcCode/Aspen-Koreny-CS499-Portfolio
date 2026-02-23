@@ -77,7 +77,7 @@ Ultimately, this portfolio integrates my technical skills, professional experien
 </details>
 
 
-[##View full text and resources**](Professional_Self-Assessment.md)
+[Professional Self-Assessment](Professional_Self-Assessment.md)
 ---
 
 ## Informal Code Review
