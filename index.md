@@ -17,36 +17,7 @@ This portfolio highlights enhanced work demonstrating growth in:
 - Databases  
 
 Each artifact includes a reflection narrative outlining the enhancement process, technical decisions, and alignment with program outcomes.
-
 ---
-
-## Informal Code Review (Milestone One)
-
-As the foundation for this capstone, I conducted a structured peer-style code review of my original *Grazioso Salvare Animal Rescue Dashboard* to identify architectural improvements across software design, algorithm efficiency, and database security.
-
- **Watch the Code Review Video:**  
-[View Code Review on YouTube](https://youtu.be/veKNYrXu9U0)
-
- **Read the Code Review Summary:**  
-[Code Review Documentation](code-review.md)
-
----
-## Artifact Enhancements
-
--  [Software Design & Engineering Enhancement](artifact/enhancement-software-design-narrative.md)  
--  [Algorithms & Data Structures Enhancement](artifact/enhancement-algorithms-narrative.md)  
--  [Database & Security Enhancement](artifact/enhancement-databases-narrative.md)
-
----
-### Interactive MongoDB + Dash Data Visualization Dashboard
-
-The enhanced Grazioso Salvare dashboard integrates MongoDB data retrieval, aggregation pipelines, and Plotly visualizations into an interactive analytics interface.
-
-![Grazioso Salvare Dashboard](assets/dashboard-preview.png)
-**Tech Stack:** Python · MongoDB · Dash · Plotly · Aggregation Pipelines
-
----
-
 ## Professional Self-Assessment
 This self-assessment reflects on my growth throughout the Computer Science program and how I am positioning myself professionally.
 
@@ -76,7 +47,36 @@ With my experience using HR systems as a user and collaborating with our systems
 Ultimately, this portfolio highlights more than just an individual artifact; it integrates my technical skills, professional experience, and intentional growth. It demonstrates my ability to communicate clearly, design efficient solutions, apply industry-standard practices, and develop systems with a security mindset. I am wrapping up this program not only with a degree but also with a clearer professional direction and a portfolio that demonstrates my readiness to contribute to the field of computer science.
 </details>
 
+
 ---
+
+## Informal Code Review
+
+As the foundation for this capstone, I conducted a structured peer-style code review of my original *Grazioso Salvare Animal Rescue Dashboard* to identify architectural improvements across software design, algorithm efficiency, and database security.
+
+ **Watch the Code Review Video:**  
+[View Code Review on YouTube](https://youtu.be/veKNYrXu9U0)
+
+ **Read the Code Review Summary:**  
+[Code Review Documentation](code-review.md)
+
+---
+## Artifact Enhancements
+
+-  [Software Design & Engineering Enhancement](artifact/enhancement-software-design-narrative.md)  
+-  [Algorithms & Data Structures Enhancement](artifact/enhancement-algorithms-narrative.md)  
+-  [Database & Security Enhancement](artifact/enhancement-databases-narrative.md)
+
+---
+### Interactive MongoDB + Dash Data Visualization Dashboard
+
+The enhanced Grazioso Salvare dashboard integrates MongoDB data retrieval, aggregation pipelines, and Plotly visualizations into an interactive analytics interface.
+
+![Grazioso Salvare Dashboard](assets/dashboard-preview.png)
+**Tech Stack:** Python · MongoDB · Dash · Plotly · Aggregation Pipelines
+
+---
+
 
 This portfolio represents the integration of structured computer science education, applied backend development, and intentional professional growth.
 ---
