@@ -1,6 +1,13 @@
 # Aspen Koreny – CS 499 ePortfolio
-Backend-focused developer specializing in scalable data systems, secure architecture, and performance-driven design.
+Backend-focused developer building scalable data systems, secure database architectures, and performance-driven applications.
+### Technical Focus
 
+- Database Architecture (MongoDB)
+- Secure Data Access Layers
+- Aggregation & Data Processing
+- API-Driven Design
+
+  
 Welcome to my Computer Science Capstone ePortfolio.
 
 This portfolio highlights enhanced work demonstrating growth in:
@@ -23,15 +30,21 @@ As the foundation for this capstone, I conducted a structured peer-style code re
  **Read the Code Review Summary:**  
 [Code Review Documentation](code-review.md)
 
+---
 ## Artifact Enhancements
 
 -  [Software Design & Engineering Enhancement](artifact/enhancement-software-design-narrative.md)  
 -  [Algorithms & Data Structures Enhancement](artifact/enhancement-algorithms-narrative.md)  
 -  [Database & Security Enhancement](artifact/enhancement-databases-narrative.md)
 
-## Grazioso Salvare Dashboard Preview
+---
+### Interactive MongoDB + Dash Data Visualization Dashboard
+
+The enhanced Grazioso Salvare dashboard integrates MongoDB data retrieval, aggregation pipelines, and Plotly visualizations into an interactive analytics interface.
 
 ![Grazioso Salvare Dashboard](assets/dashboard-preview.png)
+**Tech Stack:** Python · MongoDB · Dash · Plotly · Aggregation Pipelines
+
 ---
 
 ## Professional Self-Assessment
@@ -63,4 +76,7 @@ With my experience using HR systems as a user and collaborating with our systems
 Ultimately, this portfolio highlights more than just an individual artifact; it integrates my technical skills, professional experience, and intentional growth. It demonstrates my ability to communicate clearly, design efficient solutions, apply industry-standard practices, and develop systems with a security mindset. I am wrapping up this program not only with a degree but also with a clearer professional direction and a portfolio that demonstrates my readiness to contribute to the field of computer science.
 </details>
 
+---
+
+This portfolio represents the integration of structured computer science education, applied backend development, and intentional professional growth.
 ---
