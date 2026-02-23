@@ -6,9 +6,14 @@ For CS 499, I conducted a peer-style code review of my **Grazioso Salvare Animal
 The purpose of the review was to analyze the existing code, identify limitations, and outline planned enhancements across three areas: software design and engineering, algorithms and data structures, and databases. The review follows professional code review practices and uses the CS 499 code review checklist as guidance.
 
 ###  Code Review Video
-**Watch the code review here:**  
-[Unlisted Video Link](https://youtu.be/veKNYrXu9U0)
+**Watch the Code Review Video:**
 
+<p align="center">
+  <a href="https://youtu.be/veKNYrXu9U0" target="_blank">
+    <img src="assets/code-review-thumbnail.png" width="700" alt="Code Review Video Thumbnail">
+  </a>
+</p>
+---
 ### Planned Enhancements Summary
 - **Software Design & Engineering:** Improve separation of concerns, reduce hardcoded logic, and strengthen error handling.
 - **Algorithms & Data Structures:** Improve efficiency by moving repeated aggregation logic into MongoDB.
